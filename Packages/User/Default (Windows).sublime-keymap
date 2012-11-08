@@ -1,0 +1,10 @@
+[
+    { "keys": ["alt+shift+l"], "command": "reveal_in_side_bar"}
+  // { "keys": ["ctrl+d"], "command": "duplicate_line" },
+  // { "keys": ["ctrl+w"], "command": "expand_selection", "args": {"to": "word"} },
+  // { "keys": ["ctrl+w"], "command": "find_under_expand", "context":
+  //   [
+  //     { "key": "selection_empty", "operator": "equal", "operand": false, "match_all": true }
+  //   ]
+  // }
+]

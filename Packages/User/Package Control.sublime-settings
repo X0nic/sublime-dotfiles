@@ -1,0 +1,20 @@
+{
+	"auto_upgrade_last_run": 1351701030,
+	"installed_packages":
+	[
+		"EditorConfig",
+		"Indent XML",
+		"LESS",
+		"LiveReload",
+		"Markdown Preview",
+		"Package Control",
+		"PowerShell",
+		"Sublime-HTMLPrettify",
+		"SublimeHg",
+		"SublimeLinter",
+		"SublimeREPL",
+		"Terminal",
+		"Theme - Soda",
+		"zenburn"
+	]
+}

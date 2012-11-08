@@ -16,3 +16,6 @@ tmp
 .yardoc
 _yardoc
 doc/
+Backup/
+Settings/
+Packages/User/SublimeREPLHistory/
